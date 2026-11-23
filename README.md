@@ -1,4 +1,4 @@
-# Computer Graphics OpenGL Projects
+# Computer Graphics OpenGL Assignments
 
 This repository contains two independent C++/OpenGL coursework projects. Each
 project has its own source, CMake build, report, and demonstration media.
