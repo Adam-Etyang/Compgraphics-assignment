@@ -1,0 +1,24 @@
+# CMake and compiled build output
+**/build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.o
+*.obj
+*.a
+*.dylib
+*.so
+*.exe
+*.app/
+
+# Local executables
+/rocket_movie
+**/rocket_movie
+**/colour_visualizer
+**/color_math_tests
+
+# macOS metadata
+.DS_Store
